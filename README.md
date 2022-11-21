@@ -8,5 +8,5 @@ Data is stored in the file called `data`.
 Data is formatted as
 
 ```
-<message ID>,<time MM/DD/YY HH/MM>,<"content">,
+<message ID>,<time MM/DD/YY HH/MM>,<"content">
 ```
